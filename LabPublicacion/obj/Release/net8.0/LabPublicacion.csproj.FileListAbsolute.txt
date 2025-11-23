@@ -1,0 +1,14 @@
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\bin\Release\net8.0\LabPublicacion.exe
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\bin\Release\net8.0\LabPublicacion.deps.json
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\bin\Release\net8.0\LabPublicacion.runtimeconfig.json
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\bin\Release\net8.0\LabPublicacion.dll
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\bin\Release\net8.0\LabPublicacion.pdb
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.AssemblyInfoInputs.cache
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.AssemblyInfo.cs
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.csproj.CoreCompileInputs.cache
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.dll
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\refint\LabPublicacion.dll
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.pdb
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\LabPublicacion.genruntimeconfig.cache
+C:\Users\jcadi\RiderProjects\LabPublicacion\LabPublicacion\obj\Release\net8.0\ref\LabPublicacion.dll

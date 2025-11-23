@@ -1,0 +1,5 @@
+D:\TECSUP\MAYHUA\Lab14\LabPublicacion.exe
+D:\TECSUP\MAYHUA\Lab14\LabPublicacion.dll
+D:\TECSUP\MAYHUA\Lab14\LabPublicacion.deps.json
+D:\TECSUP\MAYHUA\Lab14\LabPublicacion.runtimeconfig.json
+D:\TECSUP\MAYHUA\Lab14\LabPublicacion.pdb
